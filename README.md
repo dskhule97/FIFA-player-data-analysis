@@ -1,4 +1,4 @@
-# [FIFA-21-Player-Analysis](https://github.com/dskhule97/FIFA-player-data-analysis)
+# FIFA-21-Player-Analysis
 The aim of this project is to perform Data Wrangling, Cleaning and Player Analysis of the FIFA 21 data from Kaggle.
 
 We will be exploring the wages of the different players and ascertain the relationships between the variables that results in Salary differences for the players. Variables such as the following will be explored to uncover insights:
